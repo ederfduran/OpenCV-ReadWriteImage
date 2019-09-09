@@ -15,8 +15,8 @@ This is a very simple project to show some basic functionality of OpenCV.
 
 There are some important things to notice here:
 
-/vscode is a folder generetaed by vsCode to set up the debug functionality.
-CMakeLists.txt used to build the project. Notice i use vcpkg to bind OpenCV library.
+* /vscode is a folder generetaed by vsCode to set up the debug functionality.Also has a c_cpp_properties.json to help the intell¡sense to find the headers files. (https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference)
+* CMakeLists.txt used to build the project. Notice i use vcpkg to bind OpenCV library.
 
 # Steps to run
 
