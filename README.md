@@ -11,7 +11,7 @@
 # Description 
 
 This is a very simple project to show some basic functionality of OpenCV.
-* Read an Image and how it in window, make a copy in black and white format. 
+* Read an Image and show it in window, make a copy in black and white format. 
 
 There are some important things to notice here:
 
